@@ -1,0 +1,18 @@
+.searchInput {
+    outline: none;
+    border: 1px solid #ccc;
+    padding: 8px 10px;
+    border-radius: 21px;
+}
+
+.searchInput:active {
+    border: 1px solid #bbb;
+}
+
+.searchInput:focus {
+    border: 1px solid #aaa;
+}
+
+.delete-icon {
+    color: #FF3332 !important
+}
